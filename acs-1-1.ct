@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1111</ID>
+      <Description>"Xpointers"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1079</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-00000218</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>8</Offset>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1080</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+0093F220</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>38</Offset>
+            <Offset>C8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1081</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+0093F220</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>38</Offset>
+            <Offset>90</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1082</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+0093F470</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1083</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+0093F220</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1084</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+0093F470</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>0</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1085</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+0093F220</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>38</Offset>
+            <Offset>B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1086</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-00000260</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>130</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1087</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00A4AE90</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>188</Offset>
+            <Offset>60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1088</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00A4AFB0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>188</Offset>
+            <Offset>80</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1089</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559C08</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>188</Offset>
+            <Offset>68</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1090</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00A4AE10</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>A8</Offset>
+            <Offset>C8</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1091</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00A4AFA0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>1F8</Offset>
+            <Offset>1B8</Offset>
+            <Offset>B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1092</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00A4AE28</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>1F8</Offset>
+            <Offset>118</Offset>
+            <Offset>A8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1093</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00A4AFC8</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>1F8</Offset>
+            <Offset>118</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1094</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559C08</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>1F8</Offset>
+            <Offset>118</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1095</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559C08</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>1F8</Offset>
+            <Offset>118</Offset>
+            <Offset>68</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1096</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+            <Offset>C0</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1097</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>58</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1098</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>58</Offset>
+            <Offset>168</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1099</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>60</Offset>
+            <Offset>1D8</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1100</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>F0</Offset>
+            <Offset>130</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1101</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>30</Offset>
+            <Offset>180</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1102</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1B8</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1103</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>B0</Offset>
+            <Offset>D0</Offset>
+            <Offset>40</Offset>
+            <Offset>60</Offset>
+            <Offset>1D8</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1104</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>158</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1105</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>68</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1106</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1A0</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1107</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>130</Offset>
+            <Offset>20</Offset>
+            <Offset>1E0</Offset>
+            <Offset>70</Offset>
+            <Offset>10</Offset>
+            <Offset>60</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1108</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1F0</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1109</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>30</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1110</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="-3.262784004" RealAddress="22E1413E958"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>188</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>58</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1153</ID>
+      <Description>"FOV"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1142</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>78</Offset>
+            <Offset>A8</Offset>
+            <Offset>C8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1150</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000005A8</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1149</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000005A8</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>60</Offset>
+            <Offset>198</Offset>
+            <Offset>38</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1148</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000005A8</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>90</Offset>
+            <Offset>1A0</Offset>
+            <Offset>38</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1151</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000003A0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>80</Offset>
+            <Offset>90</Offset>
+            <Offset>188</Offset>
+            <Offset>68</Offset>
+            <Offset>20</Offset>
+            <Offset>48</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1152</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000003A0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>38</Offset>
+            <Offset>C8</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>50</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1139</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>70</Offset>
+            <Offset>30</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1140</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>70</Offset>
+            <Offset>C8</Offset>
+            <Offset>38</Offset>
+            <Offset>B8</Offset>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1141</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>98</Offset>
+            <Offset>A0</Offset>
+            <Offset>188</Offset>
+            <Offset>F0</Offset>
+            <Offset>130</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1143</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>38</Offset>
+            <Offset>38</Offset>
+            <Offset>50</Offset>
+            <Offset>78</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1144</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>38</Offset>
+            <Offset>1F0</Offset>
+            <Offset>78</Offset>
+            <Offset>38</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1145</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000005A8</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>60</Offset>
+            <Offset>B8</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1146</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000005A8</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>188</Offset>
+            <Offset>68</Offset>
+            <Offset>10</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1147</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"THREADSTACK0"-000005A8</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>68</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1124</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>58</Offset>
+            <Offset>88</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1A0</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1125</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>58</Offset>
+            <Offset>88</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1A8</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1126</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>58</Offset>
+            <Offset>88</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1D0</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1127</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>C8</Offset>
+            <Offset>40</Offset>
+            <Offset>68</Offset>
+            <Offset>260</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1128</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>188</Offset>
+            <Offset>80</Offset>
+            <Offset>60</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1129</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+            <Offset>40</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1130</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>188</Offset>
+            <Offset>58</Offset>
+            <Offset>2E8</Offset>
+            <Offset>150</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1131</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>80</Offset>
+            <Offset>90</Offset>
+            <Offset>188</Offset>
+            <Offset>38</Offset>
+            <Offset>1B8</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1132</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>80</Offset>
+            <Offset>90</Offset>
+            <Offset>188</Offset>
+            <Offset>58</Offset>
+            <Offset>8</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1133</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>188</Offset>
+            <Offset>F0</Offset>
+            <Offset>130</Offset>
+            <Offset>38</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1134</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>118</Offset>
+            <Offset>188</Offset>
+            <Offset>58</Offset>
+            <Offset>F8</Offset>
+            <Offset>40</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1135</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>38</Offset>
+            <Offset>48</Offset>
+            <Offset>40</Offset>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1136</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"acs.exe"+01559AF0</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>238</Offset>
+            <Offset>38</Offset>
+            <Offset>1D0</Offset>
+            <Offset>58</Offset>
+            <Offset>20</Offset>
+            <Offset>40</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1137</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>70</Offset>
+            <Offset>30</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>78</Offset>
+            <Offset>C0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1138</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="45" RealAddress="22D9EC279D8"/>
+          <VariableType>Float</VariableType>
+          <Address>"DWrite.dll"+00C18F00</Address>
+          <Offsets>
+            <Offset>8</Offset>
+            <Offset>70</Offset>
+            <Offset>30</Offset>
+            <Offset>40</Offset>
+            <Offset>188</Offset>
+            <Offset>58</Offset>
+            <Offset>B8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>To activate FOV, first go to photomode, change the fov. Then the address will become changeable for some reason
+</Comments>
+</CheatTable>
