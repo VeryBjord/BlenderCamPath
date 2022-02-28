@@ -4,7 +4,7 @@ Camera path generator for Assetto Corsa (although modifiable to work in many gam
 ## Preqs
 -Cheat engine (CE)
 -Blender
-  -You need to manual add pymem to your blender app in order to be able to use '''import pymem'''
+  -You need to manually add pymem to your blender app in order to be able to use import pymem
   
  ## 1. Setup
  -You need to open photo mode (while in replay mode) from the right side panel (not the timeline)  
