@@ -17,7 +17,8 @@ Camera path generator for Assetto Corsa (although modifiable to work in many gam
  ## 2. Making paths 
  -Delete all keyframes  
  -Turn on autokeying  
- -Move the empty and camera at different points in the timeline  
+ -Move the camera at different points in the timeline  
  -Go to graph editor, select all, press v and click automatic  
  
- # VIDEO TUTORIAL TO BE POSTED SOON
+ ## VIDEO TUTORIAL
+ https://youtu.be/WfCzWDxXskc
